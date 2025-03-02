@@ -1,0 +1,54 @@
+.navbar {
+  background-color: #1b4965; 
+  border-bottom: 2px solid #6b90ff; 
+}
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: white !important;
+}
+.navbar .nav-link {
+  color: white !important;
+}
+
+body {
+  background: linear-gradient(to bottom, #5a5c5f, #f8f9fa);
+}
+
+.card {
+  background: none;
+  backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: white; 
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5); 
+  border-radius: 10px;
+  padding: 10px;
+} 
+
+.card h5 {
+  color: black;
+}
+.card p {
+  color: white; 
+}
+
+.card a.btn {
+  background-color: #6b90ff; 
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  font-weight: bold;
+  border-radius: 5px;
+  transition: 0.3s ease-in-out;
+}
+
+.card a.btn:hover {
+  background-color: #e65b50; 
+}
+
+.card-img-top {
+  max-height: 150px; 
+  object-fit: cover;
+}
+
+
