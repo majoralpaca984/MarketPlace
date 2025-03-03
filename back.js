@@ -44,13 +44,13 @@ function createRow({ _id, name, description, brand, price }) {
     const cellBrand = myTd(brand);
     const cellPrice = myTd(price);
 
-    // Creazione del bottone di modifica (PUT)
+    // bottone di modifica 
     const editButton = document.createElement("button");
     editButton.textContent = "Modifica";
     editButton.className = "btn btn-outline-warning";
     editButton.onclick = () => editProduct(_id);
 
-    // Creazione del bottone di eliminazione (DELETE)
+    // bottone di eliminazione
     const deleteButton = document.createElement("button");
     deleteButton.textContent = "Elimina";
     deleteButton.className = "btn btn-danger";
