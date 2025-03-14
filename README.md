@@ -16,10 +16,3 @@ Il progetto è un marketplace che permette agli utenti di:
 - **Backend:** [ Node.js,]
 
 
-## Installazione
-
-Per provare il progetto in locale:
-
-1. **Clona il repository:**
-   ```bash
-   git clone https://github.com/tuo-username/marketplace.git
