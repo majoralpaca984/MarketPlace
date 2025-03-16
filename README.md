@@ -10,10 +10,6 @@ Il progetto è un marketplace che permette agli utenti di:
 - Cercare e filtrare i prodotti in vendita
 
 
-## Tecnologie Utilizzate
-
-- **Frontend:** HTML, CSS, JavaScript (Bootstrap)
-- **Backend:** [ Node.js,]
 
 
 
